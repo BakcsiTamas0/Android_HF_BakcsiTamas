@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string-array name="animalList">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Python</item>
+        <item>Elephant</item>
+        <item>Bat</item>
+        <item>Monkey</item>
+        <item>Alligator</item>
+        <item>Crocodile</item>
+        <item>Armadillo</item>
+        <item>Horse</item>
+    </string-array>
+</resources>
